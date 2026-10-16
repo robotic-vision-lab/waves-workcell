@@ -1,0 +1,1 @@
+{"name":"waves-workcell","private":true,"type":"module","scripts":{"validate":"node source/validate.mjs"}}
